@@ -13,10 +13,16 @@
 - anchor(framework for solona program)
 - phantom wallet
 
-## client
+## Client
 
 - `npm i`
 - `npm start`
+
+## Program
+
+- `npm i` test 쪽 node 모듈 설치
+- `anchor test` 하면 알아서 디펜던시 설치하고 진행 됌
+- 잔고가 있는지 체크하면서 진행할 것;;
 
 ---
 
